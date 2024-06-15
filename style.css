@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  html {
+  background-color: #e0b1b1; 
+  }
+h1{
+  text-align: center;
+  }
+.my-box {
+  width: 300px; /* Adjust width as needed */
+  height: 60 px; /* Adjust height as needed */
+  border: 2px solid black; /* Add a border */
+  padding: 10px; /* Add padding inside the box */
+  background-color: #6bc8c9; /* Add a background color */
+  
+}
